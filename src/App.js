@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+         This a demo React app for learning  CICD using DOCKER AND JENKINS
         </p>
         <a
           className="App-link"
